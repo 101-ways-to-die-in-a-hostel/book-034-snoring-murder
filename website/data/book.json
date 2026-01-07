@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A chronic snorer is suffocated with a pillow by a sleep-deprived roommate who has been pushed past their breaking point after days without rest.",
     "long": ""
   },
   "death_type": "Snoring Murder",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some noises you learn to live with. Some you die from."
 }
